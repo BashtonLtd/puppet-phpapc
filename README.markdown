@@ -44,6 +44,6 @@ class { 'phpapc': }
 ```yaml
 phpapc::config:
   enable_opcode_cache: 1
-  shm:size: 512M
+  shm_size: 512M
   stat: 0
 ```
