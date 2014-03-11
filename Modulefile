@@ -1,5 +1,5 @@
 name          'bashtoni-phpapc'
-version       '0.0.1'
+version       '1.0.0'
 source        'UNKNOWN'
 author        'Bashton Ltd'
 license       'Apache License, Version 2.0'
